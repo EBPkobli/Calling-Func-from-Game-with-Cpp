@@ -1,2 +1,2 @@
-# Getting 
-C++ ile AssaultCube oyunun yazı yazma fonksiyonunu çekip oluşturulan formdan oyuna yazı yazdıran basit bir yazılım. Borland C++ ile yazdım.
+# Calling Func from Game
+A simple software that pulls the writing function of the AssaultCube game with C++ and prints the text from the created form to the game. I wrote it in Borland C++.
